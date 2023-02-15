@@ -1,0 +1,17 @@
+1.main.py -- 主程式
+2.untitled.py -- 介面設置程式
+3.untitled.ui -- Qt designer生成文件
+4.static -- 按鈕美術素材
+4.shape_predictor_68_face_landmarks.dat -- 人臉69特徵點模型
+5.img -- 表情包素材庫
+6.main.exe -- 遊戲執行檔
+7.resource_rc.py -- pyQt5生成文件
+
+遊戲使用方法：
+
+python main.py
+
+或者
+
+雙擊執行檔（僅限PC）
+

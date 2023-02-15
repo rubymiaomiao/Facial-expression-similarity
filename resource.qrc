@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>static/开始游戏.png</file>
+    <file>static/convert.png</file>
+    <file>static/finish.png</file>
+    <file>static/go_看图王.png</file>
+    <file>static/home.png</file>
+    <file>static/level1_看图王.png</file>
+    <file>static/level2_看图王.png</file>
+    <file>static/level3_看图王.png</file>
+    <file>static/music.png</file>
+    <file>static/next.png</file>
+    <file>static/no_signal.jpg</file>
+    <file>static/one.png</file>
+    <file>static/start.png</file>
+    <file>static/stop.png</file>
+    <file>static/two.png</file>
+  </qresource>
+</RCC>
